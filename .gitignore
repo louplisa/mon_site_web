@@ -6,6 +6,6 @@ tmp/*
 # ignore tous les fichiers txt -> 
 
 
-*.xml
+
 # ignore tous les fichiers txt -> *.txt
 
