@@ -4,3 +4,8 @@ tmp/todo.txt
 tmp/*
 *.txt
 # ignore tous les fichiers txt -> 
+
+
+*.xml
+# ignore tous les fichiers txt -> *.txt
+
