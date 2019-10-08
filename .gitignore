@@ -2,5 +2,5 @@
 tmp/todo.txt 
 # Ignore tout ce que contient le dossier tmp -> 
 tmp/*
-
-# ignore tous les fichiers txt -> *.txt
+*.txt
+# ignore tous les fichiers txt -> 
